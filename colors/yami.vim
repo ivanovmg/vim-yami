@@ -22,7 +22,7 @@ let g:colors_name = "yami"
 " Color palette
 let s:lime   = "#ffb700"
 let s:light  = "#d4d4d5"
-let s:dark   = "#000000"
+let s:dark   = "#002222"
 let s:gray0  = "#666666"
 let s:gray1  = "#323232"
 let s:gray2  = "#23242a"
